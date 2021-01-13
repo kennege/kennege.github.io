@@ -4,7 +4,7 @@ author: "<u>G. Kennedy</u>"
 collection: publications
 permalink: /thesis
 excerpt: 
-date: 2018-08-13
+date: 2017-11-11
 venue: Undergraduate thesis
 paperurl: 
 citation:
