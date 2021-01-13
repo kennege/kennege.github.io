@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - grep.sh
 keep_files:
   - .git
   - .svn
@@ -247,6 +248,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-redirect-from
 
 
 # Archives
