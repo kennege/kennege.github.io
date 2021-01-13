@@ -7,5 +7,5 @@ author_profile: true
 
 {% include base_path %}
 {% for post in site.portfolio %}
-  {% include publication.html %}
+  {% include portfolio.html %}
 {% endfor %}
