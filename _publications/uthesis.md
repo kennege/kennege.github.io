@@ -9,7 +9,7 @@ venue: Undergraduate thesis
 paperurl: 
 citation:
 header:
-   teaser: lytro_thump.png
+   teaser: lytro_thumb.png
 ---
 
 <a href="http://kennege.github.io/files/thesis_2017.pdf" target="_blank"><b>PDF</b></a>&emsp;
