@@ -1,0 +1,39 @@
+Lytro Remote Shutter Configuration File.
+For a description of how this file works, please see the User Manual.
+1. For 0.66fps video for a duration specified below enter ’1’,
+For photos triggered by SPACEBAR enter ’2’,
+For autonomous photos synchronised with a UR5 enter ’3’
+-----------------------------------------------------------
+3
+-----------------------------------------------------------
+2. Do you want to download the photos to this computer once finished? (Y/N)
+-----------------------------------------------------------
+N
+-----------------------------------------------------------
+3. Do you want the photos to be deleted off the camera after they are
+downloaded? (Y/N)
+----------------------------------------------------------
+N
+----------------------------------------------------------
+4. What format(s) would you like your photos to be saved as?
+raw sensor .jpg (’j’), raw sensor .raw (r), raw sensor metadata (’m’),
+stack of raw sensor images (’s’), processed .jpg (’J’),
+processed .raw (’R’), processed text file (’T’),
+processed light field photo (.lfp) (’L’)
+----------------------------------------------------------
+L
+----------------------------------------------------------
+65. For Option 1, how long should the video be (in seconds)?
+(leave as ’0’ if Option 1 is set to 2 or 3)
+----------------------------------------------------------
+0
+----------------------------------------------------------
+6. Perform UR5-Lytro calibration routine? (Y/N) (Option 1 must be set to ’3’)
+----------------------------------------------------------
+N
+----------------------------------------------------------
+7. Perform Lytro calibration routine using (Option 1 must be set to ’1 or 2’)
+Format: (Y/N),[x,y],[x1,y1] (see User Manual for further details)
+----------------------------------------------------------
+N,[21 14],[12.2 12.2]
+----------------------------------------------------------
