@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Gerard Kennedy"
   avatar           : "mugshot.jpg"
-  bio              : "Final year Masters student with the Australian National University and Australian Centre for Robotic Vision"
+  bio              : "Final year Masters student"
   location         : "Canberra, Australia"
-  employer         :
+  employer         : "Australian National University and Australian Centre for Robotic Vision"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YXhev9oAAAAJ&hl=en"
   email            : "gerard.kennedy@anu.edu.au"
