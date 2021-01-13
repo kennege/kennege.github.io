@@ -1,3 +1,4 @@
+---
 title: "A Perception Pipeline for Robotic Harvesting of Green Asparagus"
 author: "<u>G. Kennedy</u>, V. Ila, R. Mahony"
 collection: publications
