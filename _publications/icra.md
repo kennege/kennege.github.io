@@ -9,7 +9,7 @@ venue: "IEEE International Conference on Robotics and Automation (ICRA)"
 paperurl: 
 citation:
 header:
-   teaser: cameras.png
+   teaser: cameras_thumb.png
 ---
 
 <a href="http://kennege.github.io/files/exploit.pdf" target="_blank"><b>PDF</b></a>&emsp;

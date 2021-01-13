@@ -9,7 +9,7 @@ venue: "arXiv"
 paperurl: 
 citation:
 header:
-   teaser: vkitti.png
+   teaser: vkitti_thumb.png
 ---
 
 <a href="http://kennege.github.io/files/simul.pdf" target="_blank"><b>PDF</b></a>&emsp;

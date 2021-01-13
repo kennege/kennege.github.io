@@ -9,7 +9,7 @@ venue: "6th IFAC Conference on Sensing, Control and Automation Technologies for 
 paperurl: 
 citation:
 header:
-   teaser: farm.png
+   teaser: farm_thumb.png
 ---
 
 <a href="http://kennege.github.io/files/asparagusDetectionPaper.pdf" target="_blank"><b>PDF</b></a>&emsp;
