@@ -13,6 +13,7 @@ header:
 ---
 
 <a href="http://kennege.github.io/files/thesis_2017.pdf" target="_blank"><b>PDF</b></a>&emsp;
+<a href="https://github.com/kennege/Lytro-Remote-Shutter" target="_blank"><b>Code</b></a>&emsp;
 
 ![banner](/images/lytro.png){:class="img-responsive"}
 
