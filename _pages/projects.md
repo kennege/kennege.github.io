@@ -2,11 +2,10 @@
 layout: archive
 title: "Projects"
 permalink: /projects/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
 {% for post in site.projects %}
-  {% include publication.html %}
+  {% include archive-single.html %}
 {% endfor %}
