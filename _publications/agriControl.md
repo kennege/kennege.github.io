@@ -6,7 +6,7 @@ permalink: /2019_agricontrol
 excerpt: 
 date: 2019-06-20
 venue: "6th IFAC Conference on Sensing, Control and Automation Technologies for Agriculture"
-paperurl: http://www.sciencedirect.com/science/article/pii/S2405896319324553
+paperurl: 
 citation:
 header:
    teaser: farm.png

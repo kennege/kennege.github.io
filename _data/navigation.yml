@@ -9,11 +9,5 @@ main:
   - title: "Projects"
     url: /projects/    
     
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Talks"
-    url: /talks/
-        
   - title: "CV"
     url: /files/GerardKennedyCV.pdf
