@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: "Gerard Kennedy"
-excerpt: "About me"
+layout: archive
+title: "About me"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am a Masters candidate at the Australian National University and the Australian Centre for Robotic Vision under the supervision of <u><a href="https://cecs.anu.edu.au/people/robert-mahony">Rob Mahony</a>.</u>.
