@@ -9,7 +9,7 @@
     width: 490px;
     height: auto;
     margin-right: 10px;
-    margin-bottom: auto;
+    margin-bottom: 10px;
     @include breakpoint($x-large) {
       width: 310px;
     }
