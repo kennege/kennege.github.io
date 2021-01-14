@@ -14,14 +14,14 @@
 
 <div class="publications">
   <a href="{{ base_path }}{{ post.url }}">
-    <!-- <img class="publication-thumbnail"
+    <img class="publication-thumbnail"
          src=
         {% if teaser contains "://" %}
           "{{ teaser }}"
         {% else %}
           "{{ teaser | prepend: "/images/thumbnails/" | prepend: base_path }}"
         {% endif %}
-        alt=""> -->
+        alt="">
     </a>
 
     <div class="publication-description">
