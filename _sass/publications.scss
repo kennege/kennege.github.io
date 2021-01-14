@@ -7,7 +7,7 @@
   
   .publication-thumbnail {
     width: 490px;
-    height: auto;
+    height: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
     @include breakpoint($x-large) {
