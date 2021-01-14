@@ -1,25 +1,29 @@
 ---
-layout: archive
+permalink: /
 title: "About me"
-permalink: /about/
+excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-I am a Masters candidate at the Australian National University and the <a href="https://www.roboticvision.org/">Australian Centre for Robotic Vision</a> under the supervision of <a href="https://cecs.anu.edu.au/people/robert-mahony">Rob Mahony</a>.
-My research involves developing novel deep learning algorithms for applications in robotic vision.
-A particular application I have focused on is object position and orientation (pose) estimation of crops for agricultural robotics.
-I began my candidature in 2019 and expect to submit my thesis in February 2021.
+Welcome! I am a Postdoctoral Research Fellow in the
+[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
+and [Department of Political Science](https://polisci.wustl.edu/) at
+[Washington University in St. Louis](https://wustl.edu/). I am also an
+affiliated researcher with the [Data-driven Analysis of Peacekeeping Project](https://dapp-lab.org)
+lab. I specialize in International Relations and Political Methodology. I earned
+my Ph.D in Political Science from the
+[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
+B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
 
-Prior to this I spent a year working as Research Assistant, again with the Australian Centre for Robotic Vision under the supervision of Rob Mahony.
-In this role I assisted in the development of a robotic harvester for green asparagus crops.
-I also assisted in research aimed at developing a novel simultaneous localisation and mapping (SLAM) algorithm.
-
-I have also obtained a Bachelor of Engineering degree majoring in Mechatronic Engineering and Systems Engineering, and a Bachelor of Science degree majoring in Mathematics.
-Both from the Australian National University.
-
-I am currently seeking full-time work and can start immediately.
-
-<!-- When I'm not studying I enjoy getting outdoors for activities including rock climbing and highlining.
-
-![Underwater_rugby_photo](/images/highline.jpg){:class="img-responsive"}
-<small><i>Photo: Philipp Schmidli (Lucerne, 3 November 2018).</i></small> -->
+My work has been [published](publications) or is forthcoming in
+*International Studies Quarterly*, *Political Science Research and Methods*,
+and *The Journal of Open Source Software*. My [research](research) explores the
+causes and consequences of political violence using a broad variety of methods
+such as latent variable models, geospatial analysis, and big data. While I
+primarily focus on civil conflict, I also examine contentious political
+phenomena including terrorism and economic statecraft. I have
+[teaching](teaching) experience in both international relations and quantitative
+methodology.
