@@ -17,7 +17,7 @@
   
   .publication-description {
     width: 500px;
-    @include breakpoint($x-large) {
+    @include breakpoint($large) {
       width: 630px;
     }
   }
