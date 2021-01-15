@@ -1,24 +1,23 @@
 .publications {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    margin: 25px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 25px auto;
+}
+
+.publication-thumbnail {
+  width: 490px;
+  height: auto;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  @include breakpoint($x-large) {
+    width: 310px;
   }
-  
-  .publication-thumbnail {
-    width: 490px;
-    height: auto;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    margin-top: 50px;
-    @include breakpoint($x-large) {
-      width: 310px;
-    }
+}
+
+.publication-description {
+  width: 500px;
+  @include breakpoint($x-large) {
+    width: 630px;
   }
-  
-  .publication-description {
-    width: 600px;
-    @include breakpoint($small) {
-      width: 630px;
-    }
-  }
+}
