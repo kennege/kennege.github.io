@@ -1,6 +1,6 @@
 ---
 title: 'Asparagus Harvesting Robot'
-permalink: /posts/asparagus-harvester/
+permalink: /projects/asparagus-harvester/
 excerpt_separator: <!--more-->
 author_profile: true
 tags:

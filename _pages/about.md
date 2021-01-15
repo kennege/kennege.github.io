@@ -22,7 +22,5 @@ Both from the Australian National University.
 
 I am currently seeking full-time work and can start immediately.
 
-<!-- When I'm not studying I enjoy getting outdoors for activities including rock climbing and highlining.
 
-![Underwater_rugby_photo](/images/highline.jpg){:class="img-responsive"}
-<small><i>Photo: Philipp Schmidli (Lucerne, 3 November 2018).</i></small> -->
+
