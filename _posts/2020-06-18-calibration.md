@@ -1,6 +1,6 @@
 ---
 title: 'Camera-Robot Calibration Software Package'
-permalink: /projects/calibration/
+permalink: /posts/calibration/
 excerpt_separator: <!--more-->
 tags:
   - calibration
