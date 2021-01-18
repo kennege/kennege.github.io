@@ -46,7 +46,7 @@ I have also obtained experience in the following concepts:
 * Printed Circuit Board (PCB) design
 * Transmission Control/Internet Protocols
   
-**I am currently seeking full-time work and can start immediately.**
+**I am currently seeking full-time work and can start at short notice.**
 
 
 
