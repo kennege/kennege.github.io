@@ -33,7 +33,6 @@ Through my education and employment I have gained experience in a range of progr
 * Altium Designer
 * Github
 * Amazon Web Service (AWS)
-* Object Oriented Programming (OOP)
 
 I have also obtained experience in the following concepts:
 * Deep learning
@@ -46,6 +45,7 @@ I have also obtained experience in the following concepts:
 * Camera calibration
 * Printed Circuit Board (PCB) design
 * Transmission Control/Internet Protocols
+* Object Oriented Programming (OOP)
   
 **I am currently seeking full-time work and can start at short notice.**
 

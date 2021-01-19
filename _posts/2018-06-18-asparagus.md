@@ -9,6 +9,7 @@ tags:
   - vision
 header:
    teaser: AsparagusBot_thumb.png
+youtubeId: p5PXzJIz8Ss
 ---
 
 I spent a year working as a Research Assistant with the Australian Centre for Robotic Vision at the Australian National University.
@@ -36,7 +37,9 @@ We believed that a key to adoption of robotic harvesting technology was the simp
 For this reason we considered high speed to be a key design requirement.
 We therefore developed a vision system that relied on simple, robust algorithms that allowed for high speed data processing.
 We also developed a novel `ballistic cut-and-throw' harvesting technique that allowed for harvesting of multiple asparagus spears per second. 
+A demonstration of our harvesting technique is included below.
 
+{% include youtubePlayer.html id=page.youtubeId %}
 
 
 # Perception System
