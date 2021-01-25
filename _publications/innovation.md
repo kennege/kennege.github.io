@@ -12,7 +12,7 @@ header:
    teaser: innov.png
 ---
 
-<a href="http://kennege.github.io/files/iterativeOptmisation.pdf" target="_blank"><b>PDF</b></a>&emsp;
+<a href="http://kennege.github.io/files/iterativeOptimisation.pdf" target="_blank"><b>PDF</b></a>&emsp;
 <a href="http://kennege.github.io/files/innovation.bib" target="_blank"><b>BibTex</b></a>
 
 ![banner](/images/innov.png){:class="img-responsive"}
