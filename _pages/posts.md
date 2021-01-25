@@ -3,6 +3,9 @@ layout: archive
 title: "Posts"
 permalink: /posts/
 author_profile: true
+redirect_from: 
+  - /posts
+  - /posts.md
 ---
 
 
