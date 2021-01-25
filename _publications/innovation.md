@@ -9,7 +9,7 @@ venue: "arXiv"
 paperurl: 
 citation:
 header:
-   teaser: network_arch_layers_large.pdf
+   teaser: innov.png
 ---
 
 <a href="http://kennege.github.io/files/iterativeOptmisation.pdf" target="_blank"><b>PDF</b></a>&emsp;
