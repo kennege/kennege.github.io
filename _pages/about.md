@@ -3,9 +3,6 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am a Masters candidate at the Australian National University and the <a href="https://www.roboticvision.org/">Australian Centre for Robotic Vision</a> under the supervision of <a href="https://cecs.anu.edu.au/people/robert-mahony">Rob Mahony</a>.
