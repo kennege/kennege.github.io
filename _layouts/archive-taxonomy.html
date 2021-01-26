@@ -12,5 +12,9 @@ author_profile: false
     {% for post in page.posts %}
       {% include archive-single.html %}
     {% endfor %}
+    {% include base_path %}
+    {% for post in page.projects %}
+      {% include archive-single.html %}
+    {% endfor %}    
   </div>
 </div>

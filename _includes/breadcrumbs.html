@@ -14,6 +14,13 @@
   {% assign crumb_path = site.categories.path %}
 {% endif %}
 
+{% if page.collection != 'projects' %}
+  {% assign path_type = nil %}
+  {% assign crumb_path = '/' %}
+{% else %}
+  {% assign crumb_path = site.categories.path %}
+{% endif %}
+
 <nav class="breadcrumbs">
   <ol itemscope itemtype="http://schema.org/BreadcrumbList">
     {% assign crumbs = page.url | split: '/' %}

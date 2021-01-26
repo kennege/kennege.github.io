@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.portfolio reversed %}
+{% for post in site.research reversed %}
   {% include publication.html %}
 {% endfor %}
 
