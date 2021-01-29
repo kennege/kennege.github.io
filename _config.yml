@@ -178,10 +178,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  bposts:
+  projects:
     output: true
     permalink: /:collection/:path/
-  posts:
+  research:
     output: true
     permalink: /:collection/:path/
 

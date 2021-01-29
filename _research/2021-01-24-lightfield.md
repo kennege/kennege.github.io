@@ -17,8 +17,6 @@ Recording the direction of these light rays allows for the light field to be ful
 In this post I provide an introduction to the lightfield and lightfield photography.
 
 <!--more-->
-
-
 # Light
 
 Visible light propagates through space as part of the electromagnetic spectrum.
@@ -62,8 +60,8 @@ The question that arises at this point is, how many dimensions are required to f
 ![wheel](/images/pinhole.png){:class="img-responsive"} 
 <small><i>Fig 1. Light rays reflecting off a body and being captured by a pin-hole camera.</i></small>
 
+<!--
 
-<!-- 
 # Lightfield Photography
 
 Light field photography allows the direction of light rays to be captured. 
