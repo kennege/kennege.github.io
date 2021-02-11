@@ -184,7 +184,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-
+  posts:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -195,10 +197,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       comments: true
       share: true
-      related: true
   # _pages
   - scope:
       path: ""
