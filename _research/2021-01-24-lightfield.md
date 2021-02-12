@@ -137,7 +137,6 @@ From these coordinates, the direction of the light ray can be determined [^8].
 The location of pixel responses therefore provides all the information required for the full L(x; y; u; v) parameterisation, thus allowing light field images to be captured by the Lytro.
 
 # Light Field Image Rendering
-Finally, we must examine how light field data is arranged to produce comprehensible images. 
 The micro-lens array in light field cameras causes an array of ‘micro-images’ of the scene to be captured, one beneath each micro-lens. 
 These micro-images can be transformed to ‘macro-images’ (standard images of the full scene) by summing all the pixels beneath each micro-lens [^8]. 
 The micro-images are all slightly different due to their location relative to the main lens. 

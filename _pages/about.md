@@ -11,7 +11,7 @@ A particular application I have focused on is object position and orientation (p
 The research areas I have worked in are Robotics, Computer Vision, and Robotic Vision.
 I began my candidature in 2019 and expect to submit my thesis in February 2021.
 
-Prior to this I spent a year working as Research Assistant, again with the Australian Centre for Robotic Vision.
+Prior to this I spent a year working as Research Engineer, again with the Australian Centre for Robotic Vision.
 In this role I assisted in the development of a robotic harvester for green asparagus crops.
 I also assisted in research aimed at developing a novel simultaneous localisation and mapping (SLAM) algorithm.
 
