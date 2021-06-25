@@ -15,9 +15,7 @@ Prior to this I spent a year working as Research Engineer, again with the Austra
 In this role I assisted in the development of a robotic harvester for green asparagus crops.
 I also assisted in research aimed at developing a novel simultaneous localisation and mapping (SLAM) algorithm. -->
 
-I am currently working as a Firmware Engineer at Finisar Australia.
-
-Prior to this I completed a Masters of PHilosophy degree at the Australian National University, in which I conducted research in robotics and computer vision.
+I have recently completed a Masters of Philosophy degree at the Australian National University, in which I conducted research in robotics and computer vision.
 I have also obtained a Bachelor of Engineering degree majoring in Mechatronic Engineering and Systems Engineering, and a Bachelor of Science degree majoring in Mathematics.
 Both from the Australian National University.
 
@@ -25,6 +23,7 @@ Through my education and employment I have gained experience in a range of progr
 * Python
 * Matlab
 * C++
+* C
 * BASH
 * C\#
 * Robot Operating System (ROS)
