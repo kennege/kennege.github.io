@@ -41,4 +41,4 @@ an external device. This thesis also presents a preliminary list of requirements
 this system will need to meet if it is to successfully extract video from the Lytro.
 
 <b>Reference:</b>
-G. Kennedy, "Exploiting Rigid Body Motion for SLAM in Dynamic Environments", IEEE International Conference on Robotics and Automation (ICRA), 2018.
+G. Kennedy, "Squeezing Video out of a Lytro Light Field Camera", Undegraduate thesis, 2018.
