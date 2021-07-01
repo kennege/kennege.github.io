@@ -24,13 +24,12 @@ Through my education and employment I have gained experience in a range of progr
 * Matlab
 * C++
 * C
-* BASH
+* BASH/UNIX
 * C\#
 * Robot Operating System (ROS)
-* Ubuntu
 * Pytorch
 * Altium Designer
-* Github
+* Git/Github
 * Amazon Web Service (AWS)
 
 I have also obtained experience in the following concepts:
