@@ -9,7 +9,7 @@ venue: "IEEE International Conference on Intelligent Robots and Systems (IROS)"
 paperurl: 
 citation:
 header:
-   teaser: depth_comp.png
+   teaser: depth_comp_thumb.png
 ---
 
 <a href="http://kennege.github.io/files/iros-2021.pdf" target="_blank"><b>PDF</b></a>&emsp;

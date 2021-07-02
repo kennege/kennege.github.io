@@ -5,10 +5,11 @@ collection: publications
 permalink: /masters_thesis
 excerpt: 
 date: 2021-03-13
+venue: Postgraduate thesis
 paperurl: 
 citation:
 header:
-   teaser: pose_comp.png
+   teaser: pose_comp_thumb.png
 ---
 
 <a href="http://kennege.github.io/files/mthesis.pdf" target="_blank"><b>PDF</b></a>&emsp;
