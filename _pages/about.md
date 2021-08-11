@@ -18,7 +18,7 @@ I also assisted in research aimed at developing a novel simultaneous localisatio
 I have recently completed a Masters of Philosophy degree at the Australian National University, in which I conducted research in robotics and computer vision.
 I have also obtained a Bachelor of Engineering degree majoring in Mechatronic Engineering and Systems Engineering, and a Bachelor of Science degree majoring in Mathematics.
 Both from the Australian National University.
-
+<!-- 
 Through my education and employment I have gained experience in a range of programming languages, software packages, and operating systems, including:
 * Python
 * Matlab
@@ -43,9 +43,10 @@ I have also obtained experience in the following concepts:
 * Camera calibration
 * Printed Circuit Board (PCB) design
 * Transmission Control/Internet Protocols
-* Object Oriented Programming (OOP)
+* Object Oriented Programming (OOP) 
   
 **I am currently seeking full-time work and can start at short notice.**
 
 
 
+-->
