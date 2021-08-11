@@ -8,7 +8,7 @@ tags:
   - C
   - malloc
 header:
-   teaser: lightfield.png
+   teaser: 
 ---
 
 To try to learn a bit more about what goes on under the hood when I'm writing code I wrote a memory allocation and freeing module in C.
@@ -16,7 +16,7 @@ C requires memory management and has it's own functions to help with this, eg. m
 To try to understand a bit more about how these worked, I decided to write my own versions of malloc() and free().
 <!--more-->
 
-The code, which is available at my Github [Github](https://github.com/kennege/malloc/blob/master/malloc.c), uses the same system call sbrk(), that malloc used to determine the location of the top of the memory heap. 
+The code, which is available at my [Github](https://github.com/kennege/malloc/blob/master/malloc.c), uses the same system call sbrk(), that malloc used to determine the location of the top of the memory heap. 
 The challenge for this task isn't writing malloc-ing, its free-ing, specifically, keeping track of what memory can be freed, and what has been freed.
 
 To do this I used a singly linked list to store the location of each allocated memory chunk, the size of the chunk, and a flag to indicate if it had been freed. 
