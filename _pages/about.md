@@ -18,3 +18,5 @@ I also assisted in research aimed at developing a novel simultaneous localisatio
 I have recently completed a Masters of Philosophy degree at the Australian National University, in which I conducted research in robotics and computer vision.
 I have also obtained a Bachelor of Engineering degree majoring in Mechatronic Engineering and Systems Engineering, and a Bachelor of Science degree majoring in Mathematics.
 Both from the Australian National University.
+
+I now work as a Firmware Engineer at Finisar Australia in Sydney. In this role I develop software for optical equipment such as Wavelength Selective Switches and Optical Channel Monitors.

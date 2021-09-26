@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Gerard Kennedy"
   avatar           : "profile.png"
-  bio              : "Software Engineer and recent Masters graduate from the Australian National University and Australian Centre for Robotic Vision."
-  location         : "Canberra, Australia"
-  employer         :
+  bio              : "Firmware Engineer. Recent Masters graduate from the Australian National University and Australian Centre for Robotic Vision."
+  location         : "Sydney, Australia"
+  employer         : "Finisar Australia"
   pubmed           :
   orcid            : 
   googlescholar    : "https://scholar.google.com/citations?user=YXhev9oAAAAJ&hl=en"
-  email            : "gerard.kennedy@anu.edu.au"
+  email            : "gerardkennedy93@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
