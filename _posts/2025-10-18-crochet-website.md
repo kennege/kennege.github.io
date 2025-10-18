@@ -12,12 +12,12 @@ header:
   teaser: irupecrochet-logo.png
 ---
 
-In 2025 I began building **Irupe Crochet**, a handmade crochet store created together with my partner Florencia.  
-We wanted a simple, elegant way to showcase and sell our handmade crochet pieces online.  
+In 2025 I began building **Irupe Crochet**, a handmade crochet store created together with a friend.  
+We wanted a simple, elegant way to showcase and sell her handmade crochet pieces online.  
 The live site is [irupecrochet.com](https://irupecrochet.com).  
 <!--more-->
 
-I built the website using **WordPress + WooCommerce** hosted via **GoDaddy**, focusing on a clean, calm aesthetic inspired by our lotus logo.  
+I built the website using **WordPress + WooCommerce** hosted via **GoDaddy**, focusing on a clean, calm aesthetic inspired by her lotus logo.  
 We customised the **Astra** theme with CSS for sticky menus, transparent headers, and soft pastel backgrounds.  
 
 Our goal was to make the site feel warm, handcrafted, and simple to navigate — much like the products themselves.  
